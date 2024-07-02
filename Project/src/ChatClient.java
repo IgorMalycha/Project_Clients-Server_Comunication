@@ -4,8 +4,6 @@
  *
  */
 
-package zad1;
-
 
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;

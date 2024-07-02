@@ -4,9 +4,6 @@
  *
  */
 
-package zad1;
-
-
 
 import java.nio.file.*;
 import java.util.*;
